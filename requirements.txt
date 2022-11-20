@@ -29,7 +29,7 @@ nr.stream==0.0.5
 nr.sumtype==0.0.4
 nr.utils.re==0.1.1
 packaging==20.9
-pathspec==0.8.1
+pathspec==0.10.2
 pluggy==0.13.1
 pre-commit==2.12.1
 py==1.10.0
